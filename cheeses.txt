@@ -4,5 +4,3 @@
 - Compté
 - Fontina
 - PIZZA
-- Fromage blanc
-- Morepizza
